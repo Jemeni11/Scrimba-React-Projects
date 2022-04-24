@@ -4,4 +4,5 @@
 - [x] AirBnB Clone
 - [x] Travel Journal
 - [x] Meme Generator
-- [ ] Markdown Notes App
+- [x] Markdown Notes App
+- [ ] Tenzies
